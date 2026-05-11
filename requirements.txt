@@ -1,1 +1,13 @@
-
+pandas
+numpy
+matplotlib
+plotly
+geopandas
+shapely
+fiona
+pyproj
+pyogrio
+jupyter
+notebook
+openpyxl
+ipykernel
